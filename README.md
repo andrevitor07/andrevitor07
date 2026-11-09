@@ -12,7 +12,7 @@
 
 ## ▍ Sobre mim
 
-Oi, eu sou o **André Vitor Souza Pereira**.
+Olá, eu sou o **André Vitor Souza Pereira**.
 
 Minha área é **Engenharia de Software**. Estou no começo do caminho: conheço o básico de Python, HTML e JavaScript e ainda não publiquei nenhum projeto. Este perfil vai crescer junto com o que eu for aprendendo e construindo.
 
