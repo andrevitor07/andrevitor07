@@ -74,25 +74,6 @@ Ainda não tenho projetos publicados. Os espaços abaixo estão reservados para 
 
 <br>
 
-## ▍ Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrevitor07&bg_color=000000&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
-
-</div>
-
-<br>
-
-## ▍ Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=andrevitor07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<br>
 
 ## ▍ Contribuições
 
